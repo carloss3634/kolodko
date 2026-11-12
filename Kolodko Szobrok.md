@@ -61,3 +61,6 @@ Kolodko Mihály Noé bárkája című miniszobra Budapest VII. kerületében, a 
 A kis bronzalkotás a bárkát jeleníti meg, amelynek egyik legkülönlegesebb részlete a színes ablakok sora. Ezeken keresztül a szivárvány motívuma is felfedezhető, amely a bibliai történetben az özönvíz végét és Isten szövetségét jelképezi. A szivárvány ezért a remény, a béke és az új kezdet szimbólumává vált.
 
 A szobor elhelyezése szintén jelentőségteljes. Az Állatorvostudományi Egyetem közelsége miatt az állatvilág megőrzésének gondolata különösen hangsúlyossá válik. A játszótér szomszédsága pedig a gyermekek képzeletvilágához kapcsolja az alkotást. Noé bárkája így nemcsak vallási történetet idéz fel, hanem egyetemes emberi üzenetet is közvetít: az élet sokfélesége érték, amelyet meg kell őriznünk. A bárka a menedék és az összetartozás jelképe, a szivárvány pedig arra emlékeztet, hogy a legnehezebb időszakok után is van lehetőség az újjászületésre. Kolodko apró alkotása egyszerű formában fogalmaz meg időtálló gondolatokat az emberiség felelősségéről, a természet tiszteletéről és a jövőbe vetett hitről.
+
+Forrás: ChatGPT
+Prompt: Irj erről a 8 Kolodko miniszoborról, mindegyikhez egy 1000-1500 karakteres esszét: gyogyulo nyul, dr bubo, zsigmondy vilmos, micimacko, szenes hanna, a tizennegy karatos auto, garfield, noe barkaja
